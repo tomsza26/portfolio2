@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3bdd0ee35aafdf157c96af83b23c73a",
+    "revision": "1c1b2ef462e831ea6518b4fe2277d09d",
     "url": "/portfolio2/index.html"
   },
   {
-    "revision": "92f534d39ec9463a2a22",
-    "url": "/portfolio2/static/css/main.db2f1a7d.chunk.css"
+    "revision": "7f52faddcf0b257bbaa3",
+    "url": "/portfolio2/static/css/main.e8f2d2a0.chunk.css"
   },
   {
     "revision": "e8eb963cfeeed530023a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2/static/js/2.b9818f4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92f534d39ec9463a2a22",
-    "url": "/portfolio2/static/js/main.d3e216f9.chunk.js"
+    "revision": "7f52faddcf0b257bbaa3",
+    "url": "/portfolio2/static/js/main.12487d00.chunk.js"
   },
   {
     "revision": "16b632e774ebb0170a9c",
@@ -70,5 +70,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "751172c15355295c6024a3c658a4c416",
     "url": "/portfolio2/static/media/tomekVHS.751172c1.JPG"
+  },
+  {
+    "revision": "ae0998f2a789096005cfceaa227d5631",
+    "url": "/portfolio2/static/media/wave.ae0998f2.svg"
   }
 ]);
